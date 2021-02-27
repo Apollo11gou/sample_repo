@@ -1,2 +1,3 @@
 # sample_repo
-git練習用
+
+README の更新
